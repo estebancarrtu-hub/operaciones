@@ -1,6 +1,6 @@
 package opereciones;
 
-public class Operaciones {
+public class TablaMultiplicar {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
