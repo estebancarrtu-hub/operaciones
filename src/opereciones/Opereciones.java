@@ -14,7 +14,26 @@ public class Opereciones {
 		
 		int num3= 8;
 		
+		int resta = num3- num2;
+				
+		System.out.println("la resta es: "+ resta);
 		
+		//multiplicar
+		
+		int num4 = 5;
+		int num5= 4;
+		int mul= num4 * num5;
+		System.out.println("El resultado de la multiplicación es: "+ mul);
+		
+		//división 
+		
+		int num6= 2;
+		int div= mul / num6;
+		System.out.println("El resultado de la división es: "+ div);
+		
+		
+		
+				
 		
 		
 		
